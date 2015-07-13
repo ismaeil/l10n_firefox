@@ -1,0 +1,14 @@
+{
+  "title": "l10n_firefox",
+  "name": "l10nfirefox",
+  "version": "0.0.1",
+  "description": "Firefox extension for Localization Glossary Tooltips",
+  "icon": "icon.png",
+  "homepage": "http://traduction.drupalfr.org",
+  "main": "index.js",
+  "author": "Ismaeil Abouljamal",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}

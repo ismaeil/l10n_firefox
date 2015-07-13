@@ -1,0 +1,10 @@
+#l10n-firefox-tooltip {
+  position: absolute;
+  background-color: #FFFFFF;
+  border: 1px solid #555555;
+  width: auto;
+  max-width: 300px;
+  padding: 0px 3px 0px 3px;
+  font-size: 90%;
+  z-index: 99999;
+}
